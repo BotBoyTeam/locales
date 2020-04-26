@@ -2,5 +2,19 @@
   "_": {
     "name": "English (United States)",
     "emoji": "us"
+  },
+  "command": {
+    "mod_restricted": "This command is restricted to moderators!",
+    "error": "{{&mention}}, An error has occurred and has been documented.",
+    "problem_persists": "If problem persists, report it to the support server.",
+    "event_id": "Event ID:"
+  },
+  "currency": {
+    "not_found": "That currency could not be found!",
+    "available": "Available currencies:",
+    "value": "**{{&type}}** value in the last 15 minutes in **{{&currency}}**:",
+    "btc": "Bitcoin",
+    "bch": "Bitcoin Cash",
+    "eth": "Ethereum"
   }
 }
