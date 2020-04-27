@@ -15,6 +15,18 @@
     "value": "**{{&type}}** value in the last 15 minutes in **{{&currency}}**:",
     "btc": "Bitcoin",
     "bch": "Bitcoin Cash",
-    "eth": "Ethereum"
+    "eth": "Ethereum",
+    "too_long": "That currency code is too long!",
+    "invalid_amt": "Invalid amount!",
+    "invalid_arg": "Invalid arguments!",
+    "invalid_sym": "Invalid symbol!",
+    "invalid": "Invalid currency!",
+    "conversion": "Conversion rate between **{{from}}** ({from_sym}) to **{{to}}** ({to_sym})",
+    "prev_close": "Previous Close:",
+    "share_vol": "Share Volume:",
+    "high": "High:",
+    "low": "Low:",
+    "today_hl": "Today's High/Low",
+    "52wk_hl": "52-week High/Low"
   }
 }
