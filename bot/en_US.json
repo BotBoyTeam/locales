@@ -28,5 +28,17 @@
     "low": "Low:",
     "today_hl": "Today's High/Low",
     "52wk_hl": "52-week High/Low"
-  }
+  },
+  "dict": {
+    "word_not_found": "That word cannot be found!",
+    "today_quote": "Quote for Today",
+    "stems": "Stems:",
+    "syn": "Synonyms",
+    "ant": "Antonyms",
+    "set_to_nsfw": "{{&mention}}, This command has been set to be only available in NSFW channels!",
+    "read_more": "Read More",
+    "by": "by {{&user}}",
+    "examples": "Examples"
+  },
+  "none": "None"
 }
