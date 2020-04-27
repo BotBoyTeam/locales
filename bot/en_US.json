@@ -40,5 +40,33 @@
     "by": "by {{&user}}",
     "examples": "Examples"
   },
+  "discord": {
+    "invalid_id": "Invalid ID!",
+    "invalid_user": "Invalid user!",
+    "moderation": {
+      "ban_perm": "I need `Ban Members` permissions for this command!",
+      "ban_myself": "I'm not banning myself!",
+      "ban_icant": "I can't ban this person!",
+      "ban_self": "Don't ban yourself!",
+      "ban_youcant": "You can't ban this person!",
+      "7days": "You can't delete more than 7 days of messages!",
+      "no_bans": "There are no bans on this server.",
+      "banned_in": "Banned users in {{&guild}}",
+      "kick_perm": "I need `Kick Members` permissions for this command!",
+      "kick_myself": "I'm not kicking myself!",
+      "kick_icant": "I can't kick this person!",
+      "kick_self": "Don't kick yourself!",
+      "kick_youcant": "You can't kick this person!",
+      "no_msgs": "No messages were deleted.",
+      "no_input": "No input was given in the `{{flag}}` flag!",
+      "msg_perm": "I need `Manage Messages` permissions for this command!",
+      "invalid_num": "Invalid number!",
+      "guild_perm": "I need `Manage Guild` permissions for this command!",
+      "region_changed": "Changed `{{oldRegion}}` to `{{newRegion}}`.",
+      "region_already": "The region is already set to `{{region}}`.",
+      "these_regions": "Choose between these regions:",
+      "avail_regions": "Here are all the available regions. Deprecated regions (💢) may have some unintended side-effects!"
+    }
+  },
   "none": "None"
 }
